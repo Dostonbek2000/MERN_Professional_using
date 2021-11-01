@@ -1,0 +1,6 @@
+{
+    "mongoURL":"mongodb+srv://dostonbekabdumuxtorov:dostonbekabdumuxtorov1662@cluster0.hcxf9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"2d23fd92b3b9beec9f9e",
+    "githubSecret":"3c3f41f7965f2732176b01f6720cbeef49e29e75"
+}
